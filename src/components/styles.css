@@ -1,0 +1,22 @@
+/* src/styles.css */
+body.dark-mode {
+    background-color: #333;
+    color: white;
+  }
+  
+  header {
+    padding: 10px;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin-top: 10px;
+  }
+  
+  select {
+    padding: 5px;
+    margin-top: 10px;
+  }
+  
